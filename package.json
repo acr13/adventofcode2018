@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "aoc2018",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "moment": "^2.22.2"
+  },
   "devDependencies": {
     "eslint": "^5.9.0",
     "eslint-config-airbnb-base": "^13.1.0",

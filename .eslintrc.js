@@ -11,5 +11,6 @@ module.exports = {
         "import/newline-after-import": 0,
         "no-shadow": 0,
         "no-underscore-dangle": 0,
+        "no-console": 0,
     }
 };
