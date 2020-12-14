@@ -1,5 +1,4 @@
 const TARGET = 29000000;
-               11675827
 
 // get the divisors, then *10 each and sum
 const presents1 = (num) => {
