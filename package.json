@@ -4,7 +4,9 @@
   "description": "aoc2018",
   "main": "index.js",
   "dependencies": {
+    "esm": "^3.2.25",
     "inherits": "^2.0.4",
+    "js-combinatorics": "^1.4.5",
     "linked-list": "^2.1.0",
     "moment": "^2.22.2"
   },
