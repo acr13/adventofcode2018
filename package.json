@@ -10,7 +10,7 @@
     "js-combinatorics": "^1.4.5",
     "linked-list": "^2.1.0",
     "lodash": "^4.17.21",
-    "moment": "^2.22.2"
+    "moment": "^2.29.4"
   },
   "devDependencies": {
     "eslint": "^5.9.0",
